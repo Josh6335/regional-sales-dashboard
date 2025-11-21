@@ -18,11 +18,6 @@
 
 ---
 
-
-
-
----
-
 ## 🚀 Overview
 
 This project features an interactive **Regional Sales Performance Dashboard** built entirely in **Power BI**, with Excel used for initial data review.  
@@ -175,9 +170,9 @@ Fork the repo, open an issue, or submit a pull request.
 ## 📧 Contact
 
 For collaborations, dashboards, or automation projects:  
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/joshua-musediku-510945302)  
-📩 **Email:** musedikutemitope@gmail.com  
-💬 **WhatsApp:** https://wa.me/2348072240480
+📩 **Email:** [Email Me](mailto:musedikutemitope@gmail.com)  
+💬 **WhatsApp:** [Chat on WhatsApp](https://wa.me/2348072240480)  
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/joshua-musediku-510945302)
 
 ---
 
